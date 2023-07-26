@@ -15,7 +15,7 @@
         -> DB_PASSWORD= Password_database_Anda(*Jika Ada)
     # Jalankan Pada terminal/CMD "php artisan serv / php artisan serve"
     # kemudian buka port yang ditunjukkan 
-    ![Alt text](image.png)
+![Alt text](image.png)
     # Aplikasi berhasil diinstall, jika terkendala dalam penginstallan
         -> dapat menghubungi email berikut: mping593@gmail.com
         -> pastikan sertakan print screen error yang terjadi
