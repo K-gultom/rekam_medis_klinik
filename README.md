@@ -1,4 +1,5 @@
 # rekam_medis_klinik
+![Alt text](image-1.png)
 
 #   Cara Instalisasi
     # Buka Terminal/CMD 
